@@ -22,22 +22,22 @@ Buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: 
 http://localhost/lab7_php_dasar
 
-![gambar 4](screenshot(4).png)
+![gambar 4](screenshot/Screenshot%20(4).png)
 
 ## Belajar PHP Dasar
 Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat 
 kode seperti berikut.
 
-![gambar 5](screenshot(5).png)
+![gambar 5](screenshot/Screenshot%20(5).png)
 
 Hasilnya
 
-![gambar 6](screenshot(6).png)
+![gambar 6](screenshot/Screenshot%20(6).png)
 
 ## Variable PHP
 menambahkan variable
 
-![gambar 7](screenshot(7).png)
+![gambar 7](screenshot/Screenshot%20(7).png)
 
 hasilnya
 
