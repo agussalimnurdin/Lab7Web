@@ -41,7 +41,7 @@ menambahkan variable
 
 hasilnya
 
-![gambar 8](screenshot/Screenshot%20(8).png.png)
+![gambar 8](screenshot/Screenshot%20(8).png)
 
 ## Predefine Variable $_GET
 Membuat Predefine Variable $_GET, kodinganya seperti ini
