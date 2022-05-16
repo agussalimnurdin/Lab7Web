@@ -41,12 +41,12 @@ menambahkan variable
 
 hasilnya
 
-![gambar 8](screenshot8).png)
+![gambar 8](screenshot/Screenshot%20(8).png.png)
 
 ## Predefine Variable $_GET
 Membuat Predefine Variable $_GET, kodinganya seperti ini
 
-![gambar 12](screenshot/(12).png)
+![gambar 12](screenshot/Screenshot%20(12).png)
 
 
 hasilnya
@@ -57,7 +57,7 @@ hasilnya
 ## Membuat Form Input
 Buat file baru dengan nama form_input.php, tambahkan kodingan berikut
 
-![gambar 17](screenshot/Screenshot(17).png)
+![gambar 17](screenshot/Screenshot%20(17).png)
 
 
 hasilnya
@@ -66,17 +66,21 @@ hasilnya
 ## Pertanyaan dan Tugas
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
 
+## Membuat Form Input
+
 ![gambar 19](screenshot/Screenshot%20(19).png)
 
-hasil
+Kemudian akses hasilnya melalui URL: http://localhost/lab7_php_dasar/form_input.php
 
 ![gambar 20](screenshot/Screenshot%20(20).png)
 
-## Membuat Form Input
+## Membuat Hasil Input
+Kemudian membuat hasil dari inputan formnya, kodinganya seperti ini
 
 ![gambar 22](screenshot/Screenshot%20(22).png)
 
-hasil
+Kemudian saat kita klik submit pada form input maka hasilnya akan seperti ini
+
 
 ![gambar 23](screenshot/Screenshot%20(23).png)
 
@@ -85,12 +89,9 @@ hasil
 
 
 
-Kemudian akses hasilnya melalui URL: http://localhost/lab7_php_dasar/form_input.php
 
 
-## Membuat Hasil Input
-Kemudian membuat hasil dari inputan formnya, kodinganya seperti ini
 
 
-Kemudian saat kita klik submit pada form input maka hasilnya akan seperti ini
+
 
